@@ -6,15 +6,14 @@ AI-powered web application for detecting poultry diseases using MobileNetV2 + SV
 
 - **Real-time Disease Detection**: Upload poultry images and get instant predictions
 - **3 Disease Classes**: Coccidiosis, Salmonella, and Healthy
-- **High Accuracy**: 95.34% test accuracy
+- **High Accuracy**: 96.17% test accuracy
 - **User-Friendly Interface**: Built with Streamlit
 - **Confidence Scores**: Shows probability for each class
 
 ## 🚀 Model Performance
 
 - **Training Accuracy**: 100%
-- **Validation Accuracy**: 97.10%
-- **Test Accuracy**: 95.34%
+- **Test Accuracy**: 96.17%
 - **Architecture**: MobileNetV2 (feature extraction) + SVM (classification)
 
 ## 📦 Installation
@@ -67,10 +66,7 @@ Make sure you have `MobileNetV2_SVM_model.pkl` in the root directory.
 
 This is an AI-based diagnostic tool. Always consult a qualified veterinarian for final diagnosis and treatment decisions.
 
-## 📝 License
-
-[Your License Here]
 
 ## 👨‍💻 Author
 
-[Your Name]
+Al Momen Pranta
